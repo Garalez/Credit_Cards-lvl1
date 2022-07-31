@@ -1,0 +1,13 @@
+{
+  "name": "credit-cards",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "dependencies": {
+    "inputmask": "^5.0.7",
+    "redom": "^3.29.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  }
+}
